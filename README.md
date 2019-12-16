@@ -1,8 +1,6 @@
-# CS 100 Programming Project
-
 # Project Information
 Fall 2019
-Authors: Abraham Park (862050972), Krischin Layon (862112168)
+Authors: Abraham Park, Krischin Layon
 
 # Introduction
 RShell is a command shell written in C++ that is able to execute commands read from standard input and write the results to standard out. User input is read by an interpreter and parsed through to run any executable commands along with any optional arguments. The interpreter is able to recognize connectors and can separate multiple commands written at once. An executable only runs when the executable program is in the PATH environment variable. 
